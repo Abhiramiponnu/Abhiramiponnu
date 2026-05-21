@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi👋 I'm Abhirami
 
-<!--
-**Abhiramiponnu/Abhiramiponnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Aspiring Developer | 🌱 Learning New Technologies
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 Currently working on improving my coding skills
+- 🌱 Learning web development and programming
+- 👯 Looking to collaborate on beginner-friendly projects
+- 💬 Ask me about coding, GitHub, and tech
+- 📫 Reach me at: your-email@example.com
+- ⚡ Fun fact: I love exploring new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- HTML, CSS, JavaScript
+- Python / Java / C (edit based on your skills)
+- Git & GitHub
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhiramiponnu&show_icons=true&theme=radical)
+
+## Connect With Me
+- LinkedIn: your-link
+- Portfolio: your-website
